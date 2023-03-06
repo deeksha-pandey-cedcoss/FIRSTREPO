@@ -1,0 +1,2 @@
+/*JSj*/
+<script>yes</script>
